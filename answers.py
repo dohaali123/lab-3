@@ -13,7 +13,7 @@ def DNAtoRNA(inputDNA):
             rna += i
     return rna
 
-
+ 
 # Task 2 (3 pts)
 def getNucleotidePercentages(inputDNA):
     """Returns a dictionary containing Nuclotide percentages. The keys of the output 
