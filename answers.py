@@ -90,3 +90,5 @@ def find_motifs(inputDNA):
         if subsequence == motif or subsequenceRevComplement == motif:
             count += 1
     return count
+ 
+ 
