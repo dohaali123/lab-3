@@ -91,4 +91,3 @@ def find_motifs(inputDNA):
             count += 1
     return count
  
- 
